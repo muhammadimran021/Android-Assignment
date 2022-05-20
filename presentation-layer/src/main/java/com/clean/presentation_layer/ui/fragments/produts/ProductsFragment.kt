@@ -31,13 +31,20 @@ class ProductsFragment : BaseFragment(R.layout.products_fragment), ItemClick {
     }
 
     private fun initViews() {
+        setUpRecyclerView()
+        listLoadingState()
+        getProducts()
+    }
+
+    private fun setUpRecyclerView() {
         listAdapter = ProductCategoryAdapter(this)
         binding.productsList.apply {
             layoutManager = LinearLayoutManager(requireContext())
             adapter = listAdapter
         }
-        getProducts()
+    }
 
+    private fun listLoadingState() {
         // show the loading state for te first load
         listAdapter.addLoadStateListener { loadState ->
             if (loadState.refresh is LoadState.Loading) {

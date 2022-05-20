@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Imran/My Practice Apps/CleanArchDemo-main/presentation-layer/src/main/res/drawable/bg_gradient.xml" value="0.25435897435897437" />
         <entry key="..\:/Imran/My Practice Apps/CleanArchDemo-main/presentation-layer/src/main/res/drawable/gradient.xml" value="0.25833333333333336" />
+        <entry key="..\:/Imran/My Practice Apps/CleanArchDemo-main/presentation-layer/src/main/res/drawable/ic_kotlin_hero_new_animated_total.xml" value="0.25435897435897437" />
+        <entry key="..\:/Imran/My Practice Apps/CleanArchDemo-main/presentation-layer/src/main/res/drawable/splash_background.xml" value="0.25435897435897437" />
         <entry key="..\:/Imran/My Practice Apps/CleanArchDemo-main/presentation-layer/src/main/res/drawable/square_bg.xml" value="0.25833333333333336" />
         <entry key="..\:/Imran/My Practice Apps/CleanArchDemo-main/presentation-layer/src/main/res/layout/activity_main.xml" value="0.17617753623188406" />
         <entry key="..\:/Imran/My Practice Apps/CleanArchDemo-main/presentation-layer/src/main/res/layout/dialog_progress.xml" value="0.17617753623188406" />
@@ -12,6 +15,7 @@
         <entry key="..\:/Imran/My Practice Apps/CleanArchDemo-main/presentation-layer/src/main/res/layout/product_row_item.xml" value="0.19293478260869565" />
         <entry key="..\:/Imran/My Practice Apps/CleanArchDemo-main/presentation-layer/src/main/res/layout/products_fragment.xml" value="0.2421875" />
         <entry key="..\:/Imran/My Practice Apps/CleanArchDemo-main/presentation-layer/src/main/res/layout/square_bg.xml" value="0.20606884057971014" />
+        <entry key="..\:/Imran/My Practice Apps/CleanArchDemo-main/presentation-layer/src/main/res/menu/menu_bottom_nav.xml" value="0.2421875" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1824074074074074" />
         <entry key="presentation-layer/src/main/res/drawable/bg_gradient.xml" value="0.1925925925925926" />
         <entry key="presentation-layer/src/main/res/drawable/ic_kotlin_hero_new_animated_total.xml" value="0.18153846153846154" />
