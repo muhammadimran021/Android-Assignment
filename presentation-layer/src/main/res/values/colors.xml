@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#39c6d6</color>
+    <color name="colorPrimaryDark">#0095a5</color>
+    <color name="colorAccent">#78f9ff</color>
+
+    <color name="splashScreenColor">#F2F2F0</color>
+    <color name="splashIconMaskColor">#E9620B</color>
+    <color name="splashActivityColor">#03DAC5</color>
+    <color name="mainColor">#0095a5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+
+
+    <color name="newSplashScreenColor">#f6f5ec</color>
+    <color name="newSplashIconMaskColor">@color/iconMaskColor</color>
+
+    <color name="newAdScreenColor">@color/iconMaskColor</color>
+    <color name="newAdScreenBtnBgColor">@color/colorPrimary</color>
+    <color name="iconMaskColor">#46485f</color>
+    <color name="iconMaskStrokeColor">#00ffffff</color>
+    <color name="iconFillColor">#3DDC84</color>
+    <color name="iconStrokeColor">#000000</color>
+
+    <color name="gray_bg">#ECEAEA</color>
+    <color name="sky">#61C3F2</color>
+    <color name="dull_background_unselected">#77000000</color>
+</resources>
